@@ -85,7 +85,7 @@ $(document).ready(function() {
 });
 </script>
 <div class="w3-container w3-grey w3-opacity w3-right-align w3-padding">
-    <button class="w3-btn w3-round-large" onclick="location.href='http://localhost:8080/showStatisticsIGA/index.jsp'">Back to form</button>
+    <button class="w3-btn w3-round-large" onclick="history.back();">Back to form</button>
 </div>
 </body>
 </html>
