@@ -16,6 +16,6 @@ web.xml-connects the ChangeServlet servlet.java and the configuration of the def
 You can visit it by ref https://aistj.000webhostapp.com/index.php
 
 <p align="left">
-  <img src="1.PNG" width="350"/><br><br>
-  <img src="2.PNG" width="350"/><br><br>
+  <img src="1.png" width="350"/><br><br>
+  <img src="2.png" width="350"/><br><br>
 </p>
