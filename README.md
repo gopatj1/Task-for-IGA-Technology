@@ -13,8 +13,6 @@ wviews / graphic.jsp page displaying the charts working on the script and HighCh
 
 web.xml-connects the ChangeServlet servlet.java and the configuration of the default page
 
-You can visit it by ref https://aistj.000webhostapp.com/index.php
-
 <p align="left">
   <img src="1.png" width="350"/><br><br>
   <img src="2.png" width="350"/><br><br>
