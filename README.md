@@ -11,7 +11,7 @@ app.entities.Changes.java - class with static methods to create an array with wh
 
 wviews / graphic.jsp page displaying the charts working on the script and HighCharts. Java blocks are used in which static variables are processed. And then it is compiled into JSON format for correct operation.
 
-web.xml-connects the ChangeServlet servlet.java and the configuration of the default page
+web.xml-connects the ChangeServlet servlet.java and the configuration of the default page 
 
 <p align="left">
   <img src="1.png" width="350"/><br><br>
